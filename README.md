@@ -1,9 +1,5 @@
 ### Welcome 👋
 
-- 🔭 I’m currently working on data engineer
-- 🌱 I’m currently learning python and multclouds
-- 😄 Pronouns: She / Her
-
 <div>
   <a href="https://github.com\CamilaYzidoro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilayzidoro&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
@@ -23,3 +19,13 @@
   <a href = "mailto:camila.casagrandey@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+About me:
+🔭 I’m currently working on data engineer
+🌱 I’m currently learning python and multclouds
+😄 Pronouns: She / Her
+🌎 From: Br
+   26 years old
+   Hobbies: 🎨, 🎮, 💻
